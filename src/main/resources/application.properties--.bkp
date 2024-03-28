@@ -1,0 +1,3 @@
+spring.application.name=santander-dev-week-2024
+
+//Remove the "--" from the file name if you need to use this.
